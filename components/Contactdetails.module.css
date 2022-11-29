@@ -1,0 +1,17 @@
+.container {
+    padding: 18px;
+    background: linear-gradient(to right, rgb(250,214,116), rgb(180,237,128));
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.container h4 {
+    font-style: italic;
+    align-items: center;
+}
+
+.socmed {
+    display: flex;
+    margin-top: 20px;
+}
